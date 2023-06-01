@@ -7,7 +7,7 @@ Durante o curso de FrontEnd da Alura, o instrutor Pedro Marins, nos ensionou a b
 
 Fiz uma logo, pesquisei algumas imagens, alterei algumas estilizações do mesmo.
 
-Linguagens utilizadas HTML5, CSS3
+=> Linguagens utilizadas  (HTML5 e CSS3).
 
 ### Se preferir, postei no meu Linkedln o vídeo, deste projeto.
 
